@@ -1,12 +1,5 @@
 # PostHTML Plugin Remove Duplicates <img align="right" width="220" height="200" title="PostHTML logo" src="http://posthtml.github.io/posthtml/logo.svg">
 
-[![NPM][npm]][npm-url]
-[![Deps][deps]][deps-url]
-[![Build][build]][build-badge]
-[![Coverage][cover]][cover-badge]
-[![Standard Code Style][style]][style-url]
-[![Chat][chat]][chat-badge]
-
 This plugin removes duplicated tags. It can be used to remove duplicated css and script tags when your markup is assembling code from different sources. 
 
 Before:
